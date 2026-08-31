@@ -92,3 +92,9 @@ As demais configurações ficam em `src/config/config.ts`.
 ## Contribuindo
 
 Veja o guia completo em [CONTRIBUTING.md](./CONTRIBUTING.md) — inclui convenções de código, como adicionar comandos e eventos, e o fluxo de desenvolvimento.
+
+---
+
+## Nota
+
+Este projeto foi originalmente desenvolvido em 2026 e migrado para este repositório em 2026. O histórico de commits foi preservado.
